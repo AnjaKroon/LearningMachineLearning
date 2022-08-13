@@ -1,8 +1,7 @@
 # LearningMachineLearning
-Come join me on my journey to learning machine learning! I share the books, websites, and resources I've used to learn ML since starting my journey in 2022. My primary objective is to learn ML for graduate school research so you may see some more theoretical content rather than application specific content.
+books, websites, and resources I've used to learn ML
 
-### Initial Interest Phases
-Once upon a time (i.e. January 2022), machine learning was topic that sounded cool but I knew nothing about. I decided to set out on a journey to explore the field as part of the honours electrical engineering research program McGill University. I am documenting my journey here in an effort to help other students who may be seeking to do something similar in the future. I was able to dedicate part time efforts to learning machine learning always primarily being occupied with university courses or employed with internships. But as they say, if there's a will, there's a way and I firmly believe that with time and dedication you too can learn ML. Without further ado, here is my learning machine learning journey.
+
 
 ###### Deep Learning Explained -- Deep Lizard, YouTube (January - February 2022)
 Ahh... the YouTube playlist that began it all. This playlist is a welcome introduction to the fundamental concepts in machine learning but deep learning specifically. The graphics, videos, and explanations are easy to follow and engaging.
